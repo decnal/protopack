@@ -8,6 +8,7 @@ repositories {
 }
 
 dependencies {
+    implementation project(':PGParsers')
     testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
 }
 

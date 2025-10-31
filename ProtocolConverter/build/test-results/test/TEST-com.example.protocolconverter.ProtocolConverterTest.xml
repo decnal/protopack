@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.protocolconverter.ProtocolConverterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-10-31T07:16:37" hostname="devbox" time="0.028">
+<testsuite name="com.example.protocolconverter.ProtocolConverterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-10-31T17:36:38" hostname="devbox" time="0.031">
   <properties/>
   <testcase name="testConvertToFlat()" classname="com.example.protocolconverter.ProtocolConverterTest" time="0.022"/>
   <testcase name="testConvertToJson()" classname="com.example.protocolconverter.ProtocolConverterTest" time="0.002"/>
-  <testcase name="testConvertToXML()" classname="com.example.protocolconverter.ProtocolConverterTest" time="0.001"/>
+  <testcase name="testConvertToXML()" classname="com.example.protocolconverter.ProtocolConverterTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

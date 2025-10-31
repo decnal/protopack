@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.risenperspectives'
+version = '0.0.1-SNAPSHOT'
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+    }
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(13)
+    }
+}
